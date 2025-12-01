@@ -1,7 +1,7 @@
 [![Profile](logos.png)](https://kportfolio-eight.vercel.app/)
 <table width="100%">
   <tr>
-    <td align="left" style="padding-right: 20px;">
+    <td align="left" style="padding-right: 50px;">
       <a href="https://github.com/kernemi">
         <img src="https://img.shields.io/badge/Profile%20Views-21-blue?style=for-the-badge&logo=github" alt="Profile Views" />
       </a>
