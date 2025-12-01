@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Profile%20Views-21-blue?style=for-the-badge&logo=github" alt="Profile Views" />
       </a>
     </td>
-    <td width="340"></td>
+    <td width="335"></td>
     <td align="right">
       <a href="https://github.com/kernemi">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
