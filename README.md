@@ -1,4 +1,24 @@
-![Profile](logos.png)
+![Profile](logos.png)(https://kportfolio-eight.vercel.app/)
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://github.com/kernemi">
+        <img src="https://img.shields.io/badge/Profile%20Views-1234-blue?style=for-the-badge&logo=github" alt="Profile Views" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://github.com/kernemi">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      </a>
+      <a href="https://www.linkedin.com/in/kernemi-kidane-3297ba2a0/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://x.com/Kernemi_k">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **kernemi/kernemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
