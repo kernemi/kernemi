@@ -7,7 +7,7 @@
 </a>
 </br>
 
-[![Visits Badge](https://img.shields.io/badge/Profile%20Views-21-blue?style=for-the-badge&logo=github)](https://github.com/kernemi)
+[![Visits Badge](https://img.shields.io/badge/Profile%20Views-52-blue?style=for-the-badge&logo=github)](https://github.com/kernemi)
 <a href="https://x.com/Kernemi_k" target="_blank"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Kernemi Kidane| Twitter" ></img></a>
 <a href="https://www.linkedin.com/in/kernemi-kidane-3297ba2a0/" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kernemi Kidane | Linkedin" /></a>
 <a href="https://github.com/kernemi" target="_blank"><img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kernemi Kidane | GitHub" /></a>
