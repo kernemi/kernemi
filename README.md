@@ -37,7 +37,6 @@
       </ul>
       <p>from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the modern JavaScript ecosystem with deep experiences.</p>
     </td>
-    <td width="40"></td>
     <td valign = "top" align = "center">
     <p style="font-size: 90px;">👩‍💻</p>
     <img src="https://img.shields.io/badge/Coding-Active-purple?style=for-the-badge" alt="Coding" />
