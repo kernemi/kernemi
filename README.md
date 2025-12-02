@@ -37,10 +37,6 @@
       </ul>
       <p>from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the modern JavaScript ecosystem with deep experiences.</p>
     </td>
-    <td valign = "top" align = "center">
-    <p style="font-size: 90px;">👩‍💻</p>
-    <img src="https://img.shields.io/badge/Coding-Active-purple?style=for-the-badge" alt="Coding" />
-    </td>
   </tr>
   <tr height=40>
   </tr>
@@ -48,10 +44,7 @@
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
   <p align="left">
-  [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,nodejs,expressjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,python,c&theme=dark&titles=true)]
-  </p>
-
-<!--
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
