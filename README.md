@@ -19,12 +19,12 @@
   <li>UI/UX Enthusiastic</li>
   <li>Machine learning Trainee</li>
 </ul>
-<p>from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the modern JavaScript ecosystem with deep experiences.</p>
+<p>from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the JavaScript ecosystem, with extensive experience in Python for machine learning.</p>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="left">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,tailwind,bootstrap,canva,figma,notion,mysql,slack,reactrouter,nodejs,expressjs,postgresql,mongodb,blender,godot,dart,flutter,git,github,githubactions,vercel,bash,python,java,php,c&theme=dark&titles=true)](https://kportfolio-eight.vercel.app/)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,tailwind,bootstrap,canva,figma,notion,mysql,slack,reactrouter,nodejs,expressjs,postgresql,mongodb,blender,godot,dart,flutter,git,github,githubactions,vercel,bash,python,java,cpp,php&theme=dark&titles=true)](https://kportfolio-eight.vercel.app/)
 </p>
 <br/>
 
