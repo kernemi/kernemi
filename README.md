@@ -17,7 +17,7 @@
   <li>Software Engineer</li>
   <li>front end developer</li>  
   <li>UI/UX Enthusiastic</li>
-  <li>Machine learning Trainee</li>
+  <li>AI Trainee</li>
 </ul>
 <p>from Ethiopia. I specialize in building robust, scalable, and user-friendly web applications. My expertise lies in the modern JavaScript ecosystem with deep experiences.</p>
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
