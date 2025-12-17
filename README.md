@@ -24,7 +24,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <p align="left">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,tailwind,bootstrap,canva,figma,notion,mysql,slack,reactrouter,nodejs,expressjs,postgresql,mongodb,blender,godot,dart,flutter,git,github,githubactions,vercel,bash,python,java,php,c&theme=dark&titles=true)](https://kportfolio-eight.vercel.app/)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,tailwind,bootstrap,canva,figma,notion,mysql,slack,reactrouter,nodejs,expressjs,postgresql,mongodb,blender,godot,dart,flutter,git,github,githubactions,vercel,bash,python,java,php,cpp&theme=dark&titles=true)](https://kportfolio-eight.vercel.app/)
 </p>
 <br/>
 
